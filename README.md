@@ -1,12 +1,6 @@
 <div align="center">
 
-```
-const dev = new Aryan();
-dev.location = "Kathmandu, Nepal";
-dev.status   = "Available for work";
 
-while (true) { code(); learn(); ship(); }
-```
 
 ### Full Stack Developer · AI & ML Enthusiast · Kathmandu, Nepal
 
